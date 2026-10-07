@@ -21,8 +21,6 @@ that work reliably on real customer data.
 | [**MAUD Smart Revenue System**](https://github.com/stkef/maud-smart-revenue) | Government of Andhra Pradesh hackathon project, **selected and taken into development** | Built the React / TypeScript dashboard for revenue and collection monitoring: charts, summary cards, data tables |
 | [**Opsify**](https://github.com/stkef/opsify-ai-assistant) | Conversational AI assistant | LangChain orchestration served through FastAPI to a React / TypeScript chat UI (shadcn/ui, Tailwind) |
 
-Also: a [spam email classifier](https://github.com/stkef/Spam_email_classification_dataset) (scikit-learn,
-Random Forest on Spambase) and a GitHub Actions → Docker → Nginx on AWS EC2 push-to-deploy pipeline.
 
 ---
 
