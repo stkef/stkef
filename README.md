@@ -1,6 +1,6 @@
 # Pradeep Kase
 
-**AI Engineer · AI agents, RAG and search systems** · Hyderabad, India
+**AI agents · RAG · search systems** · Hyderabad, India
 SMM / Tech at Citta AI · B.Tech Computer Science, 2026
 
 I build LLM and retrieval systems end to end, from model choice to production, and I measure every
